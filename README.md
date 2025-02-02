@@ -1,4 +1,3 @@
-```markdown
 # Multilingual FAQ System
 
 A multilingual FAQ system that supports automatic translation of questions and answers with caching for optimized performance. This system integrates MongoDB for storing FAQ data, Redis for caching translations, and uses Google Translate API for language translation.
