@@ -1,5 +1,5 @@
 const FAQ = require('../models/faq.model');
-const { translateFAQ } = require('../services/translation-service');
+const { translateFAQ } = require('../services/translation-service')
 
 const getFAQs = async (req, res) => {
   try {
