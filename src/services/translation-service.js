@@ -1,4 +1,4 @@
-const translate = require('@vitalets/google-translate-api');
+const translate = require('@vitalets/google-translate-api')
 const FAQ = require('../models/faq.model');
 const redisClient = require('../config/redis');
 
