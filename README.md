@@ -5,9 +5,7 @@ A multilingual FAQ system that supports automatic translation of questions and a
 ## Table of Contents
 1. [Installation](#installation)
 2. [API Usage](#api-usage)
-3. [Contribution Guidelines](#contribution-guidelines)
-4. [Git & Version Control](#git--version-control)
-5. [License](#license)
+3. [License](#license)
 
 ## Installation
 
@@ -102,58 +100,6 @@ Before you begin, make sure you have the following installed:
      }
      ```
 
-## Contribution Guidelines
-
-We welcome contributions! Here’s how you can help:
-
-1. Fork the repository and clone it to your local machine.
-2. Create a new branch for your changes.
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them.
-   - For new features, use `feat:` for the commit message.
-   - For bug fixes, use `fix:`.
-   - For documentation updates, use `docs:`.
-4. Push your changes to your fork.
-   ```bash
-   git push origin feature-name
-   ```
-5. Create a pull request from your fork's branch to the `main` branch of the original repository.
-
-### Commit Message Convention
-- **feat**: Add new features or functionality
-- **fix**: Correct bugs or issues
-- **docs**: Update documentation
-- **chore**: Other tasks such as refactoring or dependency updates
-
-## Git & Version Control
-
-1. **Set up the Git repository**:
-   - Add the remote repository:
-     ```bash
-     git remote add origin https://github.com/VidsRox/multilingual-faq.git
-     ```
-
-2. **Create the initial commit**:
-   - Add all the files:
-     ```bash
-     git add .
-     ```
-   - Commit your changes:
-     ```bash
-     git commit -m "Initial commit"
-     ```
-
-3. **Push to GitHub**:
-   - Push your changes to the main branch:
-     ```bash
-     git push -u origin main
-     ```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can copy and paste this into your `README.md` file. Adjust the instructions or add more details as needed, especially if your project evolves or new features are added.
